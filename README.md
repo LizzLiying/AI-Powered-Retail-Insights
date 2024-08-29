@@ -18,15 +18,21 @@ Advanced techniques like data mining, machine learning, and AI are better suited
 Description of dataset:
 This dataset contains detailed records of coffee sales from a vending machine. The dataset spans from March 2024 to present time, capturing daily transaction data. It is intended for analysis of purchasing patterns, sales trends, and customer preferences related to coffee products.
 
+### Challenges faced by retail
+
 <details>
-<summary><b>Foldable hidden section</b></summary>
+<summary><b>Using kMEANs to identify customer segmentation</b></summary>
+![Screenshot of kMeans scatterplot](image link)
 
-Any folded content here. It requires an empty line just above it!
+<summary><b>Using RNNs (LSTM) Model to forecast daily sales volume</b></summary>
+![Screenshot of LSTM Model](image link)
 
+<summary><b>Using Random Forest Classifier Model to forecast product demand</b></summary>
+![Screenshot of RFC Model](image link
+)
 </details>
 
-What you learned
+### Conclusion
 
-What you'd change
 
 Link to your LinkedIn
