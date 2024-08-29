@@ -24,9 +24,15 @@ This dataset contains detailed records of coffee sales from a vending machine. T
 <summary><b>Using kMEANs to identify customer segmentation</b></summary>
 ![Screenshot of kMeans scatterplot](image link)
 
+</details>
+
+<details>
 <summary><b>Using RNNs (LSTM) Model to forecast daily sales volume</b></summary>
 ![Screenshot of LSTM Model](image link)
 
+</details>
+
+<details>
 <summary><b>Using Random Forest Classifier Model to forecast product demand</b></summary>
 ![Screenshot of RFC Model](image link
 )
