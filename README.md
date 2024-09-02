@@ -22,8 +22,16 @@ This dataset contains detailed records of coffee sales from a vending machine. T
 
 <details>
 <summary><b>Using kMEANs to identify customer segmentation</b></summary>
-![Screenshot of elbow plot]![elbow plot.png](https://www.dropbox.com/scl/fi/fduaek17twfyz8eguyork/elbow-plot.png?rlkey=6xt0eolo76bbs3zz7dzoq5wql&dl=0&raw=1)
-![Screenshot of kMeans scatterplot]![scatter plot for customer segmentation.png](https://www.dropbox.com/scl/fi/9g4eq8edzykk1lj9ftsid/scatter-plot-for-customer-segmentation.png?rlkey=hkeu6tihtpri69ussho4hq4bj&dl=0&raw=1)
+
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/fef1d277-e73b-48df-8d26-7456fbf5c988">
+
+Screenshot of elbow plot
+
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/0d053ae4-1231-4611-865d-b95bb992b9b2">
+
+
+Screenshot of kMeans scatterplot
+
 
 It is difficult to accurately categorize customers into segmentation due to:
 - Customers have varied demographics, purchase behaviours, and preferences.
@@ -34,7 +42,11 @@ It is difficult to accurately categorize customers into segmentation due to:
 
 <details>
 <summary><b>Using RNNs (LSTM) Model to forecast daily sales volume</b></summary>
-![Screenshot of LSTM Model]![lstm sales forecasting.png](https://www.dropbox.com/scl/fi/x70r38zu7uhemcusvk0b8/lstm-sales-forecasting.png?rlkey=q2ekf4jf5zlmlrfjt9ro560mk&dl=0&raw=1)
+
+<img width="442" alt="image" src="https://github.com/user-attachments/assets/954028d4-187c-4482-9860-83fbefd3aba7">
+
+Screenshot of LSTM Model
+
 
 Making an accurate sales forecasting can be difficult due to:
 - Stockouts or excessive inventory can impact sales
@@ -45,8 +57,14 @@ Making an accurate sales forecasting can be difficult due to:
 
 <details>
 <summary><b>Using Random Forest Classifier Model to forecast product demand</b></summary>
-![Screenshot of RFC Model Prediction]![demand forecast using random forest classifier.png](https://www.dropbox.com/scl/fi/93o68vfodfvums7ifnalx/demand-forecast-using-random-forest-classifier.png?rlkey=xv37kssjop37ny4ui7yf13bsw&dl=0&raw=1)
 
+![image](https://github.com/user-attachments/assets/4696d3e3-48ec-45dd-8bfa-023107b1e425)
+  
+Screenshot of RFC Model Prediction
+
+![image](https://github.com/user-attachments/assets/dbfef955-fe05-4ee4-a92a-dc1ede840dcd)
+
+Screenshot of RFC Model Classification Report
 
 Making accurate product demand can be difficult due to:
 - Demand fluctuates due to seasonal factors and promotional activities
