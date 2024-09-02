@@ -24,11 +24,13 @@ This dataset contains detailed records of coffee sales from a vending machine. T
 <summary><b>Using kMEANs to identify customer segmentation</b></summary>
 
 <img width="456" alt="image" src="https://github.com/user-attachments/assets/fef1d277-e73b-48df-8d26-7456fbf5c988">
+
 Screenshot of elbow plot
 
 Based on the elbow plot, decided on k value equal to 3 because it is where the SSE begins to flatten out and see an inflection point. 
 
 <img width="488" alt="image" src="https://github.com/user-attachments/assets/0d053ae4-1231-4611-865d-b95bb992b9b2">
+
 Screenshot of kMeans scatterplot
 
 
@@ -58,6 +60,7 @@ It is a popular choice for customer segmentation due to it simplicity, efficienc
 <summary><b>Using RNNs (LSTM) Model to forecast daily sales volume</b></summary>
 
 <img width="442" alt="image" src="https://github.com/user-attachments/assets/954028d4-187c-4482-9860-83fbefd3aba7">
+
 Screenshot of LSTM Model
 
 Model's RMSE score: 112.41933002358847
@@ -85,10 +88,12 @@ LSTM is specialized RNN well-suited for time series forecasting due to its abili
 <details>
 <summary><b>Using Random Forest Classifier Model to forecast product demand</b></summary>
 
-![image](https://github.com/user-attachments/assets/4696d3e3-48ec-45dd-8bfa-023107b1e425)
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/9e49730c-4ca6-4b2b-a652-4595a7fbd896">
+
 Screenshot of RFC Model Prediction
 
 ![image](https://github.com/user-attachments/assets/dbfef955-fe05-4ee4-a92a-dc1ede840dcd)
+
 Screenshot of RFC Model Classification Report
 
 
