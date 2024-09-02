@@ -77,7 +77,7 @@ The model shows a moderate level of accuracy in predicting the value. There is a
 The model tends to underpredict the peaks and overpredict the troughs. There are a few instances where the model's prediction deviate significantly from the actual values. The model seems to struggle with capturing the sharp fluctuations in the data. 
 
 **Conclusion:**
-The model demonsrates moderate accuracy in predicting values. However, there are areas where the model could be improved, such as capturing sharp fluctations and reducing the overall prediction error. 
+The model demonstrates moderate accuracy in predicting values. However, there are areas where the model could be improved, such as capturing sharp fluctations and reducing the overall prediction error. 
 
 **Why choose LSTM model?**
 
