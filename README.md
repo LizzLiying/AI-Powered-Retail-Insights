@@ -26,7 +26,6 @@ This dataset contains detailed records of coffee sales from a vending machine. T
 <img width="456" alt="image" src="https://github.com/user-attachments/assets/fef1d277-e73b-48df-8d26-7456fbf5c988">
 Screenshot of elbow plot
 
-
 Based on the elbow plot, decided on k value equal to 3 because it is where the SSE begins to flatten out and see an inflection point. 
 
 <img width="488" alt="image" src="https://github.com/user-attachments/assets/0d053ae4-1231-4611-865d-b95bb992b9b2">
