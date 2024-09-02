@@ -22,7 +22,8 @@ This dataset contains detailed records of coffee sales from a vending machine. T
 
 <details>
 <summary><b>Using kMEANs to identify customer segmentation</b></summary>
-![Screenshot of kMeans scatterplot](image link)
+![Screenshot of elbow plot]![elbow plot.png](https://www.dropbox.com/scl/fi/fduaek17twfyz8eguyork/elbow-plot.png?rlkey=6xt0eolo76bbs3zz7dzoq5wql&dl=0&raw=1)
+![Screenshot of kMeans scatterplot]![scatter plot for customer segmentation.png](https://www.dropbox.com/scl/fi/9g4eq8edzykk1lj9ftsid/scatter-plot-for-customer-segmentation.png?rlkey=hkeu6tihtpri69ussho4hq4bj&dl=0&raw=1)
 
 It is difficult to accurately categorize customers into segmentation due to:
 - Customers have varied demographics, purchase behaviours, and preferences.
@@ -33,7 +34,7 @@ It is difficult to accurately categorize customers into segmentation due to:
 
 <details>
 <summary><b>Using RNNs (LSTM) Model to forecast daily sales volume</b></summary>
-![Screenshot of LSTM Model](image link)
+![Screenshot of LSTM Model]![lstm sales forecasting.png](https://www.dropbox.com/scl/fi/x70r38zu7uhemcusvk0b8/lstm-sales-forecasting.png?rlkey=q2ekf4jf5zlmlrfjt9ro560mk&dl=0&raw=1)
 
 Making an accurate sales forecasting can be difficult due to:
 - Stockouts or excessive inventory can impact sales
@@ -44,8 +45,8 @@ Making an accurate sales forecasting can be difficult due to:
 
 <details>
 <summary><b>Using Random Forest Classifier Model to forecast product demand</b></summary>
-![Screenshot of RFC Model](image link
-)
+![Screenshot of RFC Model Prediction]![demand forecast using random forest classifier.png](https://www.dropbox.com/scl/fi/93o68vfodfvums7ifnalx/demand-forecast-using-random-forest-classifier.png?rlkey=xv37kssjop37ny4ui7yf13bsw&dl=0&raw=1)
+
 
 Making accurate product demand can be difficult due to:
 - Demand fluctuates due to seasonal factors and promotional activities
