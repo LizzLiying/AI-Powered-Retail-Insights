@@ -59,11 +59,11 @@ It is a popular choice for customer segmentation due to it simplicity, efficienc
 <details>
 <summary><b>Using RNNs (LSTM) Model to forecast daily sales volume</b></summary>
 
-<img width="442" alt="image" src="https://github.com/user-attachments/assets/954028d4-187c-4482-9860-83fbefd3aba7">
+![Screenshot 2024-09-03 095407](https://github.com/user-attachments/assets/0d1e109f-a13f-4be3-be97-d012cf1c4ff8)
 
 Screenshot of LSTM Model
 
-Model's RMSE score: 112.41933002358847
+Model's RMSE score: 115.93652712993645
 
 
 **LSTM Chart Observation**
