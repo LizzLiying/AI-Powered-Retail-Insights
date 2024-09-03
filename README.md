@@ -117,4 +117,4 @@ RFC has the ability to handle non-linear relationships, providing feature import
 ### Conclusion
 Machine Learning is transforming retail by extracting insights from data and helping retailers enhance customer satisfaction, increase sales, reduce costs, and gain a competitive edge.
 
-[Link to your LinkedIn](https://www.linkedin.com/in/lizz-tan-li-ying-59639910b/)
+[Link to my LinkedIn](https://www.linkedin.com/in/lizz-tan-li-ying-59639910b/)
