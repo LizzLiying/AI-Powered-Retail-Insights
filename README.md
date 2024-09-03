@@ -29,7 +29,7 @@ Screenshot of elbow plot
 
 Based on the elbow plot, decided on k value equal to 3 because it is where the SSE begins to flatten out and see an inflection point. 
 
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/0d053ae4-1231-4611-865d-b95bb992b9b2">
+![Screenshot 2024-09-03 110826](https://github.com/user-attachments/assets/02a7e172-7544-406a-858e-e2bd89133929)
 
 Screenshot of kMeans scatterplot
 
